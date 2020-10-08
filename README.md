@@ -1,10 +1,9 @@
-### Hi there 👋
+### Meet John Gray 👋
 
 <!--
 **meetjohngray/meetjohngray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a change maker who loves learning and making the world better through the innovative use of technology and empowering people to be their best self. My 20 years of experience in a variety of roles at Outward Bound has taught me how to manage the logistical and human resources necessary to bring projects to fruition. I am a leader who knows also knows best when it is time to follow.
